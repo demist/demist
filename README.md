@@ -5,7 +5,7 @@
 [![email][2]](mailto:starichkov.nu@mipt.ru)
 [![email][3]](mailto:nstarichkov@hse.ru)
 
-* Буду благодарен, если вы будете использовать для связи ту почту, которая 
+*Огромная просьба студентам - не писать письма без темы (с пустой темой). Они попадают автоматом в спам.*  
 
 ![stats](https://github-readme-stats.vercel.app/api?username=demist)
 
