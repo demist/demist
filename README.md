@@ -9,7 +9,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=demist)
 
-#### Официальные группы по разразработке на платформе 1С:Предприятие
+#### Официальные группы по разработке на платформе 1С:Предприятие
 [![community][4]](https://t.me/e1c_community)
 [![edt][5]](https://t.me/e1c_edt)
 [![edt_plugin_dev][6]](https://t.me/e1c_edt_plugindev)
