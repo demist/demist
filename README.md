@@ -11,5 +11,5 @@
 
 [0]:https://img.shields.io/badge/telegram-%40demist-green
 [1]:https://img.shields.io/badge/рабочая-stan@1c.ru-yellow
-[2]:https://img.shields.io/badge/для МФТИ-starichkov.nu@mipt.ru-red
-[3]:https://img.shields.io/badge/для ВШЭ-nstarichkov@hse.ru-blue
+[2]:https://img.shields.io/badge/МФТИ-starichkov.nu@mipt.ru-red
+[3]:https://img.shields.io/badge/ВШЭ-nstarichkov@hse.ru-blue
