@@ -1,7 +1,5 @@
 ### 1С, МФТИ, ВШЭ
 
-[![tlg][0]](https://t.me/demist)
-[![email][1]](mailto:stan@1c.ru)
 [![email][2]](mailto:starichkov.nu@mipt.ru)
 [![email][3]](mailto:nstarichkov@hse.ru)
 
